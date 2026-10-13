@@ -84,6 +84,10 @@ The baseline LightGBM model was compared with a graph-enhanced LightGBM model us
 | F1-score | 73.704% | 74.172% |
 | Average Precision (PR-AUC) | 78.699% | 77.926% |
 
+### Model Comparison
+
+![Temporal baseline versus graph-enhanced model](outputs/temporal_model_comparison.png)
+
 ### Interpretation
 
 - The graph-enhanced model achieved a modest increase in precision and F1-score.
