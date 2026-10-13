@@ -86,7 +86,8 @@ The baseline LightGBM model was compared with a graph-enhanced LightGBM model us
 
 ### Model Comparison
 
-![Temporal baseline versus graph-enhanced model](outputs/temporal_model_comparison.png)
+<img width="1800" height="1080" alt="image" src="https://github.com/user-attachments/assets/55ae63c5-ae22-4ccf-bd7c-b4a1f4b895a1" />
+
 
 ### Interpretation
 
